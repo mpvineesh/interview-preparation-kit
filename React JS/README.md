@@ -13,6 +13,8 @@
 |6 | [What are directives?](#what-are-directives)|
 |7 | [What are components?](#what-are-components)|
 
+- - - -
+
 1. #### What is React??
 
     * React is a front-end JavaScript library developed by Facebook in 2011.
